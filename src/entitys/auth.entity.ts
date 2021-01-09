@@ -1,4 +1,0 @@
-// @Entity()
-// export class AuthEntity{
-
-// }
